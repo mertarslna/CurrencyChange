@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CurrencyChange.Api/CurrencyChange.Api.csproj" />
+  <Project Path="CurrencyChange.Web/CurrencyChange.Web.csproj" />
+</Solution>

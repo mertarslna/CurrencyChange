@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Merta\\source\\repos\\CurrencyChange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52069A5-9F2E-43BC-9AD5-75E36D31039D}|CurrencyChange.Api\\CurrencyChange.Api.csproj|c:\\users\\merta\\source\\repos\\currencychange\\currencychange.api\\entities\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52069A5-9F2E-43BC-9AD5-75E36D31039D}|CurrencyChange.Api\\CurrencyChange.Api.csproj|solutionrelative:currencychange.api\\entities\\exchangerateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52069A5-9F2E-43BC-9AD5-75E36D31039D}|CurrencyChange.Api\\CurrencyChange.Api.csproj|c:\\users\\merta\\source\\repos\\currencychange\\currencychange.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52069A5-9F2E-43BC-9AD5-75E36D31039D}|CurrencyChange.Api\\CurrencyChange.Api.csproj|solutionrelative:currencychange.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeRateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\CurrencyChange\\CurrencyChange.Api\\Entities\\ExchangeRateResponse.cs",
+              "RelativeDocumentMoniker": "CurrencyChange.Api\\Entities\\ExchangeRateResponse.cs",
+              "ToolTip": "C:\\Users\\Merta\\source\\repos\\CurrencyChange\\CurrencyChange.Api\\Entities\\ExchangeRateResponse.cs",
+              "RelativeToolTip": "CurrencyChange.Api\\Entities\\ExchangeRateResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:05:41.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Merta\\source\\repos\\CurrencyChange\\CurrencyChange.Api\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CurrencyChange.Api\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Merta\\source\\repos\\CurrencyChange\\CurrencyChange.Api\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "CurrencyChange.Api\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T20:05:20.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

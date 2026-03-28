@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CurrencyChange.Api.Controllers.ExchangeRateResponseController",
+    "Method": "GetAll",
+    "RelativePath": "api/ExchangeRateResponse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
